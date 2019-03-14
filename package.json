@@ -3,7 +3,7 @@
   "version": "1.5.3",
   "homepage": "https://github.com/mrrio/jspdf",
   "description": "PDF Document creation from JavaScript",
-  "main": "dist/jspdf.min.js",
+  "main": "dist/jspdf.node.min.js",
   "bugs": {
     "url": "https://github.com/MrRio/jsPDF/issues"
   },
